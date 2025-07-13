@@ -14,6 +14,10 @@
 `PropertyDetails` 组件之间高效处理状态。
 4. 使用存储库模式进行数据管理:实现存储库模式,模拟获取房产列表数据的过程。
 
+## 在线预览
+
+https://property-demo-six.vercel.app/
+
 ## 运行方式
 
 > 本 demo 基于 vite + react + ts 完成
